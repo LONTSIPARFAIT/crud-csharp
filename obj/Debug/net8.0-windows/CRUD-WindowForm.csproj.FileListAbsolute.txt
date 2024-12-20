@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\bin\Debug\net8.0-windows\CRUD-WindowForm.exe
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\bin\Debug\net8.0-windows\CRUD-WindowForm.deps.json
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\bin\Debug\net8.0-windows\CRUD-WindowForm.runtimeconfig.json
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\bin\Debug\net8.0-windows\CRUD-WindowForm.dll
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\bin\Debug\net8.0-windows\CRUD-WindowForm.pdb
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD_WindowForm.Form1.resources
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.dll
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\refint\CRUD-WindowForm.dll
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.pdb
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\CRUD-WindowForm.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Ado.Net-cours\CRUD-WindowForm\obj\Debug\net8.0-windows\ref\CRUD-WindowForm.dll
